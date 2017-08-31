@@ -10,7 +10,7 @@ docker hello world in node
 
     docker create -p 3000:3000 --name="wonderful_hellonode" hellonode
 
-* Launch it
+* Launch it
 
     docker start wonderful_hellonode
 
